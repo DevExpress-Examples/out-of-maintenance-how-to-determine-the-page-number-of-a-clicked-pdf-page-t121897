@@ -1,3 +1,8 @@
+<!-- default file list -->
+*Files to look at*:
+
+* **[Form1.cs](./CS/PageHitTest/Form1.cs) (VB: [Form1.vb](./VB/PageHitTest/Form1.vb))**
+<!-- default file list end -->
 # How to determine the page number of a clicked PDF page
 
 
